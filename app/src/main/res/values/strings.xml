@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="item_click">You clicked %s</string>
+    <string name="search_user">Search User</string>
+    <string name="search">Search</string>
+    <string name="empty_searched_text">Please enter a valid search query</string>
+</resources>
